@@ -1,0 +1,16 @@
+{
+  "name": "terminal-ui-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}

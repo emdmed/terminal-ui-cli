@@ -1,0 +1,4 @@
+node_modules
+components.json
+tailwind.config.ts
+src
