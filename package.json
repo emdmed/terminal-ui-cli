@@ -2,12 +2,15 @@
   "name": "terminal-ui-cli",
   "version": "0.1.0",
   "main": "index.js",
+  "bin": {
+    "terminal-ui": "./index.js"
+  },
   "scripts": {
-    "dev": "node index",
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "a1gokn8t",
   "license": "ISC",
   "description": "",
   "dependencies": {
