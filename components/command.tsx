@@ -15,7 +15,7 @@ const Command = React.forwardRef<
   <CommandPrimitive
     ref={ref}
     className={cn(
-      "flex screen flicker h-full w-full flex-col overflow-hidden bg-background text-primary",
+      "flex h-full w-full flex-col overflow-hidden bg-background text-primary",
       className
     )}
     {...props}

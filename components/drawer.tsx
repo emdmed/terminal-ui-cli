@@ -61,7 +61,7 @@ const DrawerHeader = ({
 }: React.HTMLAttributes<HTMLDivElement>) => (
   <div
     className={cn(
-      "text-primary screen flicker grid gap-1.5 p-4 text-center sm:text-left",
+      "text-primary grid gap-1.5 p-4 text-center sm:text-left",
       className
     )}
     {...props}
